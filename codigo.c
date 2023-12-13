@@ -17,6 +17,6 @@ int main ()
     }
     printf("o resultado da soma dos numeros é %d", soma);
 
-
+//modificaçao
 return 0;
 }
